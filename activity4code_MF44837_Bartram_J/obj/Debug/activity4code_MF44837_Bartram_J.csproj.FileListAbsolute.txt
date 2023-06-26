@@ -1,0 +1,7 @@
+C:\Users\josep\OneDrive\Documents\school stuff\Unit 4\Pizza Project\activity4code_MF44837_Bartram_J\bin\Debug\activity4code_MF44837_Bartram_J.exe.config
+C:\Users\josep\OneDrive\Documents\school stuff\Unit 4\Pizza Project\activity4code_MF44837_Bartram_J\bin\Debug\activity4code_MF44837_Bartram_J.exe
+C:\Users\josep\OneDrive\Documents\school stuff\Unit 4\Pizza Project\activity4code_MF44837_Bartram_J\bin\Debug\activity4code_MF44837_Bartram_J.pdb
+C:\Users\josep\OneDrive\Documents\school stuff\Unit 4\Pizza Project\activity4code_MF44837_Bartram_J\obj\Debug\activity4code_MF44837_Bartram_J.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documents\school stuff\Unit 4\Pizza Project\activity4code_MF44837_Bartram_J\obj\Debug\activity4code_MF44837_Bartram_J.exe
+C:\Users\josep\OneDrive\Documents\school stuff\Unit 4\Pizza Project\activity4code_MF44837_Bartram_J\obj\Debug\activity4code_MF44837_Bartram_J.pdb
+C:\Users\josep\OneDrive\Documents\school stuff\Unit 4\Pizza Project\activity4code_MF44837_Bartram_J\obj\Debug\activity4code_MF44837_Bartram_J.csproj.AssemblyReference.cache
